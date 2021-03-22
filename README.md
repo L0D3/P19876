@@ -6,7 +6,6 @@
 
 The recommended way to install the scripts is:
 ```
-git clone https://gitlab.com/jo.lahann/mppn
 cd mppn
 conda create --name mppn python=3.7.
 conda activate mppn
